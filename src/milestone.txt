@@ -1,0 +1,34 @@
+
+
+
+========= LA MIA API KEY==========
+
+f4fce269e102fd4870806c7952ea06dd
+
+========= //LA MIA API KEY==========
+
+
+
+======== MILESTONE =========
+
+1
+Costruire la struttura (header e main) base, fare la chiamate API(per chiamare tutti i risultati senza filtri) genericha
+ e costrure le card(popolare una card con i dati del film/serie tv[Nome,descrizione,valutazione,locandina]).
+
+2
+costruire un filtro (input text e button) per filtrare i risultati in base a un testo inserito dal utente.
+
+3
+rifinire CSS (impaginare correttamente le card e dividere in sezioni), dare animazioni alle card (in hover mostrare scheda film/serie tv)
+
+
+======== MILESTONE se avanzo tempo =========
+
+4
+creare un jumbotron con un video
+
+5
+disporre le card in riga unica con un carosello come su netflix originale
+
+6
+dare la possibilità di filtrare tra serie e film
